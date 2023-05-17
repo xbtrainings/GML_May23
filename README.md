@@ -13,7 +13,7 @@ https://colab.research.google.com/github/xbtrainings/GML_May23/blob/master/codes
 * Open your Google Drive :<br>
 https://www.google.com/drive
 
-* Open in Google Drive Folder 'GML_May23' and go to Folder 'GML_May23/codes/'<br>
+* Open in Google Drive Folder 'GML_May23_codes' and go to Folder 'GML_May23_codes/codes/'<br>
 Select the notebook 'file.ipynb' and open it with Google Colab using Control Click + Open With Colaboratory
 
 
